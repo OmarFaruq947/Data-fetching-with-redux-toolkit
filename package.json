@@ -1,0 +1,15 @@
+{
+  "name": "async-thunk",
+  "version": "1.0.0",
+  "description": "thunk practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omar faruq",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.5",
+    "redux-logger": "^3.0.6"
+  }
+}
